@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <g fill="#A9B7C6">
+    <!-- API -->
+    <path d="M12 64h18v8H12zm86 0h18v8H98z"/>
+
+    <!-- Conexões -->
+    <path d="M30 68h16M82 68h16"
+          stroke="#A9B7C6"
+          stroke-width="6"
+          stroke-linecap="round"
+          fill="none"/>
+
+    <!-- Card -->
+    <path d="M42 20h44c6.6 0 12 5.4 12 12v72c0 6.6-5.4 12-12 12H42c-6.6 0-12-5.4-12-12V32c0-6.6 5.4-12 12-12z"/>
+
+    <!-- Cabeçalho -->
+    <rect x="40" y="28" width="48" height="8" rx="2" fill="#1E293B"/>
+
+    <!-- Aluno -->
+    <circle cx="64" cy="52" r="8" fill="#1E293B"/>
+    <path d="M49 72c0-8 7-13 15-13s15 5 15 13v4H49z" fill="#1E293B"/>
+
+    <!-- Matrículas -->
+    <path d="M50 86h28v4H50zm0 10h20v4H50z" fill="#1E293B"/>
+
+    <!-- Check -->
+    <path d="M74 95l4 4 8-9"
+          stroke="#A9B7C6"
+          stroke-width="4"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          fill="none"/>
+  </g>
+</svg>

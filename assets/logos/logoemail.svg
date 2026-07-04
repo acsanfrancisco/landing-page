@@ -1,0 +1,42 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 128 128"
+  width="100%"
+  height="100%"
+  fill="currentColor"
+  preserveAspectRatio="xMidYMid meet"
+>
+  <g>
+    <!-- envelope body -->
+    <rect
+      x="16"
+      y="32"
+      width="96"
+      height="64"
+      rx="8"
+      ry="8"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="6"
+    />
+
+    <!-- flap -->
+    <path
+      d="M16 40 L64 72 L112 40"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="6"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+    <!-- bottom fold -->
+    <path
+      d="M16 88 L52 64 M112 88 L76 64"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="6"
+      stroke-linecap="round"
+    />
+  </g>
+</svg>

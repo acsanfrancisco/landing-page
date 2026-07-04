@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <g fill="#A9B7C6">
+    <!-- Calendar -->
+    <path d="M30 20h8v10h8V20h36v10h8V20h8c5.5 0 10 4.5 10 10v68c0 5.5-4.5 10-10 10H30c-5.5 0-10-4.5-10-10V30c0-5.5 4.5-10 10-10zm-2 26v50c0 2.2 1.8 4 4 4h64c2.2 0 4-1.8 4-4V46H28z"/>
+    
+    <!-- Clock -->
+    <circle cx="64" cy="71" r="18"/>
+    <path fill="#1E293B" d="M64 58a2 2 0 012 2v10.2l6.4 3.7a2 2 0 11-2 3.4l-7.4-4.3A2 2 0 0162 71V60a2 2 0 012-2z"/>
+
+    <!-- API Nodes -->
+    <circle cx="18" cy="71" r="5"/>
+    <circle cx="110" cy="71" r="5"/>
+    <circle cx="64" cy="112" r="5"/>
+
+    <!-- Connections -->
+    <path d="M23 71h23M82 71h23M64 89v18" stroke="#A9B7C6" stroke-width="6" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>
